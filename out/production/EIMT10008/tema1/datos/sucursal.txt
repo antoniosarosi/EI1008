@@ -1,0 +1,1000 @@
+10107580B    2523,43   Perez Cacho, Germán
+10221259I    3066,36   Ortega San, Adrian
+10233736B   -2448,90   Mrkonjic Lopez-Malla, Lorenzo
+10248243V     286,49   Agusti Llanes, Maria
+10467136H   -2370,44   Vicen Martin-Lorente, Andreu
+10503830R     788,55   Sidro Saez, Jorge
+10523565I   -2939,99   Felip Fores, Emilio
+10569844L    3141,92   Martin-Lorente Leche, Abel Antonio
+10795653L    2557,20   Altes Marín, Jaime
+10845721V    4522,62   Palacios Martínez, Olga Juan
+10934473G    2398,48   Barbera Nieto, Eduardo
+11016671L    1515,36   Villagrasa Vicen, Rafael
+11050767Y    6866,60   Barrio Calvo, Sebastián Sofia
+11108943A    -771,45   Suay Piquer, Vicent
+11204474U    -598,27   Garcia Amat, Mariano
+11304120D    4368,96   Izquierdo Sendra, Raul
+11445695N     224,46   Gargallo Nager, Benet
+11457693V   -2774,26   Sanz Montañés, Cristina
+11540270Z    3652,35   Amela Soler, Sergio
+11674095B    6843,49   Ramos Huertas, Sandra
+11694928Z    -537,54   Egea Covelo, Alvar
+11744323Z    5300,19   Sos Rubert, Severino
+12112162J     249,52   Abargues Moreno, Armando
+12162076X    4920,13   Mrkonjic Castellote, Andreu Oscar
+12232233E     444,13   Felip Solsona, Emilio
+12292559U    2140,88   Abargues Vidagany, Jesús
+12393153K    4867,53   Camañ Belmonte, Agustin Rut
+12452830C    -763,53   Barrio Huertas, Hector
+12473822Y    2108,34   Galván Orenga, Rebeca
+12560064L    5840,33   Badia Soler, Guillermo
+12688998S    4098,15   Barreda Leche, Ivan Rafael
+12708051P    4330,59   Calero Sanlorenzo, Abel
+12899905F    4495,47   Cabrera Castillo, Miguel
+12921335K    3406,64   Soler Díaz, Alberto
+12986407A     618,97   Gala Blasco, Pilar
+13139273L    3711,39   Gala Narvaez, Sandra
+13285768N    1108,37   Martinez Huertas, Massimo Gabriel
+14012739J   -1340,85   Sales Caamaño, Salvador
+14229428G    6678,82   Rajadell Sanjuan, Ricardo Cristina
+14442255D    6981,85   Monferrer Martínez, Ramón
+14484287G    3598,80   Oltra Nebot, Esteban
+14533292L    5031,21   Moreno Morales, Ubaldo Lorenzo
+14790811H   -2233,16   Campos Tena, Joaquín
+14840053Q     -68,68   Sastre Borras, Joaquín
+14951003D    3773,14   Barrio Cervera, Jorge Esteban
+14952514R    5190,17   Escrig Cuenca, Antonio
+15125368M    -132,39   Serrano Mota, Rut
+15192209G    2130,88   Soler Sanchez, Angel Ricardo
+15441527C   -1365,18   Rubio Ripolles, Sara
+15730851P     -35,68   Ferrer Abargues, Esteban
+15743410C    5342,85   Bori Serrano, Alfonso
+15768867K    -441,46   Laborda Novella, Daniel
+15814382Y    6173,91   Sainz Mancebo, Irene
+15879720O     399,30   Sanz Aguado, Jorge
+16022716F   -2649,98   Nebot Ortiz, Diego Sergio
+16060635U    3938,87   Alcazar Riera, Diego
+16158539V    3973,81   Selma Aguado, Diego
+16210121B    5551,39   Borras García, German Joaquín
+16236491H    2093,02   Covelo Cacho, Pedro Benet
+16320689D    -466,53   Sin Querol, Irene
+16636773M    -273,18   Masip Navarro, Severino
+16722840T    6307,11   Nieto Sanahuja, Sofia Severino
+16827735E    3825,77   Sendra Tirado, Vanessa
+16840661K    6876,75   Cuevas Roger, Jaime
+17040858G    1837,19   Cuevas Borras, Pau
+17139242L    -712,85   Zafont Escuder, Rut Sandra
+17200780O    -984,89   Ripolles Alvarez, Jesús Cristina
+17357293Y    5839,68   Garrido Escriva, Ramón Armando
+17577921E    -801,63   Monfort Agusti, Sergio Victoria
+17634569R   -2501,22   LLopis Gozalbo, Pilar
+17796451Q   -1879,50   San Vendrell, Andreu
+17968650G    2154,11   Nava Gaspar, Alicia Vanessa
+17986269K    2079,63   Ojeda Moreno, Raul Rafael
+17992418V    5070,09   Fernández Vilar, Mario
+18111698U    5192,44   Fernández Gonzalez, Isidoro Alfonso
+18127774Z    1972,82   Badia Nieto, Fernando Salvador
+18166887G   -1723,05   Carrion Selma, Jaime
+18172332O    4537,06   Barbera Gala, Eduardo
+18248995A   -2105,68   Sainz Morales, Fernando Ismael
+18388500I    1211,02   Villamon Galván, Monica Maria
+18422551R    4025,74   Fores Cozar, Amparo
+18458998J    5188,68   Peral Alcon, Benet
+18526609C    3744,14   Bisbal Soria, Jesus
+18532317D    4061,71   Mota Vicen, Soledad
+18825177L    6341,43   Rossello Montañés, Diego Alfonso
+18891426Z   -2907,29   Gaspar Belles, Victoria
+19021389C     891,35   Perez Felip, Sergio
+19033965K   -2205,35   Aranega Viana, Miguel
+19094783G   -2152,95   Sainz Zamorano, Angel
+19118840N   -1316,75   Ballester Sierra, Mar
+19254149F    4509,61   Vidal Narvaez, Manuel
+19268124O    -885,53   Garcia Ballester, Emilio Andreu
+19281730I    2489,50   Escrig Sanjuan, Massimo Ricardo
+19343720G   -2494,16   Molina Amat, Rafael
+19365200R    4568,07   Viana Castellote, Vicent
+19366014G    2572,86   Denia Navalon, Fernando
+19455625I    4809,76   Ortega Martin-Lorente, Victoria
+19524070X    3013,22   Rubio Estrada, Irene
+19536992I    3552,62   Morales Berbegal, Mayte
+19587208Y    1995,02   Serrano Barrachina, Daniel
+19783592N   -1592,79   Belmonte Diago, Andreu
+19793243B    2310,51   Orenga Diago, Mar
+19816315J     -97,03   Martin Tirado, Vicent David
+19891439K    1629,89   Escreig Sanjuan, Vicente
+19908435W   -1924,08   Falco Belmonte, Mario
+20029870M    -471,07   Amores Barreda, Vicent
+20035112P    2310,96   Badenas Alcarria, Pilar
+20054713R    4181,04   Torres Miquel, Ismael
+20061021Q    3804,60   Puyuelo Clemente, Luis
+20077240C     746,92   Gala Miquel, Amparo
+20110955R    6817,73   Gómez Prades, Fernando
+20136591Q    -874,37   Felip Lopez-Malla, Rebeca Sergio
+20180024L   -2061,14   Monfort Carbone, Maximo Victoria
+20338172F    1037,59   Sos Mrkonjic, Alexandre Pilar
+20408086U    2593,72   Martí Maestro, Pedro
+20526940K     -15,01   Sabater Peral, Ramón
+20611622F     904,27   Mayor Archiles, Victor
+20647086S   -2235,06   Verdu Cabrera, David
+20764183B    6354,23   Alvarez Leiva, Miguel
+20843205L   -1646,83   Morales Sanz, Victor
+20936679K     556,34   Ortega Querol, Bautista
+21423664P     860,22   Tirado González, Rafael
+21430648Q    1202,92   Moyano Huertas, Germán
+21481367X     641,23   Navarro Caamaño, Ismael
+21519038Z   -1186,44   Vendrell Berbegal, Cedric
+21878174P    2930,44   Ucher París, Monica Victoria
+22046939W    1125,63   Cuenca Aranega, Alejandro
+22065935L    2742,55   Romero Ramos, Emilio
+22119353G    -563,67   Marín Ripollés, Julio Guillermo
+22167163D   -2652,15   Escreig Izquierdo, Andreu
+22236907W    -686,18   Muñoz Ripolles, Vicent
+22274896E     107,19   Egea Denia, Maria
+22460172R    1742,21   Martin Marti, Mario Jaime
+22501542Z   -2916,57   Egea Sanz, Bautista
+22682225E    5126,43   Vicen Saporta, Julio
+22772410C    6115,88   Bisbal Moyano, Vicent
+22943805O    5615,12   Cuenca Montañes, Ruben
+23017964L    5858,28   Monfort Cuenca, Pilar
+23061483H    2847,38   Puyuelo Escriva, Pilar
+23171551E    -756,54   Llopico Estrada, Rebeca
+23200416G   -1380,34   Nebot Badenas, Mario
+23323111K    4603,02   Use Fabregat, Antonio Rut
+23338699X    5697,43   Denia LLopis, Vicent Adrian
+23430637W    6274,42   Berbegal Rojas, Hector Francisco
+23623747B    4974,42   Monferrer Rajadell, Germán
+24001313Z    1089,66   Montañés Amat, Sinisa
+24095782O    -320,33   Castellote Valls, Mario
+24132954J    2844,66   Leiva Aranega, Irene Victoria
+24255707V    -836,59   Gimeno Armengot, José
+24421721P   -1327,10   Carbone Barbera, Soledad
+24458155Z     -54,43   Perez Roig, Maria
+24486701E    -824,25   Laguens Prades, Cedric
+24612959E    3768,20   Candel Monsonís, Gabriel Ubaldo
+24701351C    2015,65   Rossello Estrada, Victoria
+24863185F    4037,17   San San, Salvador
+25176213X   -1184,42   Verdu Oset, Rebeca Angel
+25224011A     529,97   Maestro Segarra, Irene Manuel
+25256201M    6327,63   Martin-Lorente Martí, Abel
+25370217K    3442,12   Villamon Ferreres, Isabel Santiago
+25650266I    1103,19   Bonillo Sendra, Gabriel
+25815630C   -1363,19   Nebot Lopez-Malla, Mario
+26103828R   -2933,72   Llopico Martin-Lorente, Maximo
+26156043O   -1974,12   Sanchis Ramos, Bautista
+26210063C    6151,29   Campos Segarra, Diego
+26263735S    4896,12   Mancebo Sin, Jorge Emilio
+26359246P    -525,27   Monfort Ramos, Rafael Javier
+26364142N    2349,28   Monferrer Orquín, Andrés
+26526454A    3252,98   Serisuelo Pastor, Joaquín Gabriel
+26542003D    2169,78   Torres Montañés, Victor
+26752195B    6600,63   Esteve Garcia, Vicent Janina
+26760069L   -2271,20   Molines Sos, Pilar
+26771944R    3929,73   Rojas Rubio, Guillermo
+26807012I    2373,88   Llopico Añibarro, Ramón
+26889988L    4125,70   Molines Beltrán, Severino
+27013791T    3261,50   Cabedo Morales, Ismael
+27015691K   -2954,39   Egea Use, Manuel
+27103829C      -3,37   Narvaez Alcazar, Victoria
+27205200W    6265,31   Peris Rubio, Amparo
+27342510Z     626,02   París Verdu, Ivan
+27364940T    4228,69   Nava Ripollés, Severino
+27509983S   -2475,05   Ferreres Navalon, Carlos
+27520261F    6748,80   Molina Armengot, Maximo
+27632831D    1753,84   Molina Gala, Soledad
+27745106W    1122,05   Borras Falco, Oscar Ruben
+27778613L    3045,45   Aguado Ribes, Victoria Pablo
+27790143T    6680,89   Bonillo Gimeno, Salvador Abel
+27909578C   -2263,57   Sidro Climent, Pablo Salvador
+27969904O    -406,82   Sierra Castillo, Esteban
+28066702S     777,28   Galindo Suay, Hector
+28103555D    1708,55   Cuevas Cacho, Lorenzo Olga
+28255056D    4043,06   Belmonte Laguens, Isabel
+28417046X    3422,73   Cruz Serrano, Vanessa Javier
+28600299L    -817,47   Castellote Archiles, Miguel Severino
+28601846K    4461,83   Ballester Gomez, Mario
+28644027O    1140,45   Viana Barreda, Jesús
+28664819O   -2250,48   Ferreres Carbone, Ivan
+28667382S    6447,77   Vidagany Carbone, Severino Olga
+28700824T    2836,74   Añibarro Escreig, Vanessa Manuel
+28847194J    5747,13   Belles Escreig, Lorenzo
+28923012Z    5994,35   Fabregat Porcar, Francisco
+29041097E   -2940,30   Rubert Masquefa, Carlos
+29083595W    1985,52   Vidagany Lucas, Adrian
+29109379X    5227,46   Escreig Marti, Pilar Irene
+29184779Q    6597,01   Viana Lopez, Maria Pedro
+29386712H    2184,44   Recatalá Carretero, Abel
+29396099H     294,70   Masip Ferrer, Jesús
+29437660C    5744,62   Oset Selma, Maria
+29454554D    3738,91   García Monlleó, Miguel
+29524883G    -229,03   Calvo Segarra, Jesus German
+29888473L     716,32   Sierra Gaspar, Patricia
+29942302L    4841,81   Climent Bori, Sandra Salvador
+30156512P    1812,91   Alcazar Barrio, Guillermo Javier
+30224291T    2230,73   Martin Barreda, Salvador
+30283943U    2997,13   Oltra Olalla, Antonio
+30406478G    1146,84   Moyano González, Maximo
+30702064B   -1763,54   Cozar Morales, Jesús
+30787695A    5301,77   Pla Guinot, Victoria
+30809970R    5589,46   Segarra Archiles, Abel Alicia
+30906970J    3853,50   Laguarda Alcarria, Alvar Adrian
+30959990R   -2941,27   Maestro Badia, Olga
+31016933Q     924,21   Rubio Leche, Esteban
+31017679S   -1617,05   París Bonillo, Luis
+31190796N    6468,79   Huertas Monlleó, Raul
+31259061L    2827,59   Barrachina Novella, Patricia
+31341834T    3807,86   Arjona Amela, Mariano
+31537645R   -2551,64   Abargues Romero, Julio Alicia
+31907796I    5907,41   Riera Fernández, Raul
+31947571A   -2969,65   Alcon Melia, Soledad Gabriel
+31992665R   -2396,37   Rubert Causanilles, Emilio
+32291023I    3266,77   Miquel Berbegal, Vanessa
+32292596X    5467,00   Morales Nava, Alvar
+32364637V    2361,64   Borras Ballester, Mar
+32540200T    2395,93   Peña Mendoza, Vanessa
+32770615T     973,59   Escuder Monfort, Sergio
+32917951K    6684,66   Garcia Serisuelo, Sergio
+33105073B    -119,51   Morales López, Alfonso
+33208316O    1901,14   Barreda Rubio, Alicia
+33235316F    6976,61   Badenas Chorda, Sofia
+33286272H   -1715,20   Sendra Monsonís, Ubaldo
+33379910J    2936,33   Saporta Nieto, Bautista Emilio
+33397919O   -1546,62   Amat Monferrer, Angel
+33465014T    2127,65   Ucher Barrio, Ubaldo
+33473818G   -1283,07   Agusti Escuder, Armando
+33660743D     678,15   Cuevas Peral, Guadalupe
+33839754L    5403,40   París Meseguer, Victor Jaime
+33969082S     842,99   Laguens González, Isabel
+34076099J    -504,45   Cano Montañés, Sofia Vanessa
+34161832Z    2930,57   Gimeno Gimeno, Soledad
+34456715V   -2534,00   Oset Amat, Pablo
+34488002N     -90,77   Nava López, Oscar
+34564552P    5918,13   Romero Laborda, Massimo Jesus
+34615093P   -1097,97   Andres Alcarria, Lorenzo
+34622741Z    -458,27   Selma Martí, Armando
+34738647P   -2354,28   Esteve Climent, Sebastián Alberto
+34867951E    -661,47   Sanchez Soria, Soledad
+34967203K    -176,10   Armengot Parra, Isidoro
+35006865J    -510,66   Nager Belmonte, Pau
+35207400F    -142,37   Martin-Lorente Mancebo, Armando
+35534400M     -95,55   Villagrasa Beltran, Sara
+35550048P    5458,87   Peña Moyano, Alejandro Amparo
+35677892G   -1887,96   Sendra Llanes, Ivan
+35708292B     151,73   Huertas Carretero, Germán
+35845722D    5102,29   Monferrer Fernandez, Isabel Cristina
+35868184O    6186,26   Palacios Diaz-Aldagalan, Maria Sara
+36049039N    -440,29   Laguarda Anton, Francisco
+36151526S     937,97   Arandigoyen Pastor, Maria Alexandre
+36300797J    1444,43   Martin Beltrán, Maximo
+36330582Q   -2903,13   Marti Alcazar, Monica Rut
+36359285J    3219,70   Llanes Caamaño, Agustin Agustin
+36445343V    2939,54   Cabrera Fernandez, Sofia
+36521860H    2031,28   Broch Vicen, Germán
+36577278T    4129,91   Ruiz Vidagany, Ignacio
+36603678C    4212,81   Montoro Felip, Joaquín
+36623643V    5980,02   Bozic Estiguin, Ivan
+36627514M     830,83   Ripolles Morales, Diego
+37007218C     805,61   Sierra Piquer, Jesus
+37071139E   -2411,40   Sales Muñoz, Monica
+37198913W    1334,31   Serisuelo Mancebo, Alejandro
+37302344E    4355,76   Viciano Maestro, Isabel
+37334788X    4715,22   Mayor Ruiz, Mario
+37346325J    -877,10   Rajadell Albalate, Soledad
+37385081Y    3046,26   Ferreres Escuder, Mariano Santiago
+37396013K    3961,68   Ortega Sos, Eduardo
+37541342W   -1546,29   Sanz Riera, Mario
+37554676D    -896,72   Albalate Escobedo, Andrés Mayte
+37629144A      22,71   Ferreres Sidro, Ramón
+37664717D    3938,27   Ruiz Calduch, Ubaldo
+37802679V    2746,52   Ramos Cazorla, Daniel
+37911738I     914,93   Altes Galván, Raúl Ramón
+37934685U    5394,45   Gimeno Zafont, Ivan
+37966789H    3259,98   Solsona Sainz, Lorenzo
+38143608X   -2395,92   Nava Amores, Diego
+38399985S    1682,37   Roig Lopez-Malla, Severino
+38423944N    2716,14   Galván Sanahuja, Abel Francisco
+38434938V    5887,70   Parra Use, Oscar Bautista
+38497047G   -1095,95   Villamon Sabater, Sara
+38577028A    5350,10   Alvarez González, Emilio
+38662399M    -135,48   Climent Ripolles, Juan Carlos
+38709235T     425,40   Segarra Galván, Mario Hector
+38738873P    1883,06   Castillo Sidro, Sara
+38836325I    1082,17   González Zafont, Irene
+38841226E    1949,72   Estiguin Sorribes, Germán
+38865830C    1988,91   Cubero Barrio, Angel
+38866545Z    -529,54   Moyano Gimeno, Victoria
+38891981C   -1539,85   Ucher Molina, Olga
+39032482B   -1821,76   Molines Izquierdo, Cristina Germán
+39201154W    1489,69   Oset Gonzalez, Lorenzo
+39302141G    5154,34   García Beltrán, Bautista Angel
+39304004V    3764,75   Denia Castillo, Alfonso Vanessa
+39309027N     942,12   Botey Alcarria, Sara
+39369307D    1915,51   Use Bonillo, Alberto
+39382602Y    1353,62   LLopis Añibarro, Andrés
+39463575N    4695,75   Ortiz Peral, Benet
+39484084D    -158,68   Galindo Maestro, Antonio
+39555652O    -476,79   Ripolles Cacho, Massimo Victor
+39644005K   -2571,76   Monsonis Montañes, Cristina Luis
+39654075M    6208,40   Montoro Muñoz, Jesus
+39659240U   -2246,37   Marín Villagrasa, Daniel Javier
+39888238M    4655,14   Izquierdo Zafont, Juan
+39984824K    4483,30   Bastard Fortuño, Benet
+40031862A     188,69   Perez Casanova, Hector
+40036051T    2440,42   Archiles Martin, Antonio
+40233056R    -147,11   Masquefa Fortuño, Alexandre
+40281646L    5521,51   Barreda Serrano, Guillermo
+40458751H    -524,73   Leiva Moreno, Miguel
+40490247J   -1584,31   Izquierdo Orquín, Begoña
+40639175T     266,69   Vicen Selma, Olga
+40728849L    2201,53   Galván Rubert, Sofia Miguel
+40818632O    1769,04   Martin-Lorente Covelo, Armando David
+40880899U    -498,85   Viana Belmonte, Salvador
+40926271O   -2445,95   Falco Ramos, Pilar
+40951224G    4267,56   Vicen Belenguer, Patricia Pablo
+40952497X    5697,74   Carretero Sendra, Santiago
+40999063D    -740,27   Lopez-Malla Lopez, Mario Antonio
+41027604L   -1522,54   Monlleó Diago, Massimo
+41272270B   -1435,68   Orosia Bori, Jesus Abel
+41272839H      53,82   Soria Abargues, Sandra
+41306944A    -879,74   Casanova Ucher, Oscar
+41400754P    6830,02   Cruz Bisbal, Jose
+41478090K    -502,19   Gimeno Pallares, Victor
+41635031B    5075,93   Sastre Fernández, Hector Patricia
+41738391T    3564,66   Badenas Fabregat, Irene
+41748898M    2117,11   Agusti Meseguer, Ricardo
+41760296R    -686,47   Denia Cabrera, Patricia Eduardo
+41766536O    5860,96   Monsonís Castellote, Soledad Daniel
+41863282S   -1440,65   Ballester Verdu, Alfonso
+41985571F   -1914,29   Roig Ripollés, Guadalupe Sandra
+42217953C    3408,81   Monlleó Esteve, Santiago Andrés
+42284821O    3385,16   Sanlorenzo Amat, Ramón
+42374531I   -1515,01   Sousa Ribes, Begoña
+42388960U     581,47   Escrig Orquín, Antonio
+42408328G    3333,17   Hurtado Marín, Germán
+42498683S     860,17   Segarra Monfort, Julio
+42587210I    -502,10   Espert Peral, Armando
+42689643O    6410,82   París Monsonís, Jaime
+42744372N   -1799,04   Carrion Sanz, Juan José
+42863449Y   -1018,93   Nebot Verdu, Janina
+42919004M    3419,08   Gargallo Parra, Bautista Severino
+43163978G   -1788,79   Alcarria Suay, Bautista
+43424356U    5053,36   Clemente Escriva, Ivan Raúl
+43424876V    6087,01   Calduch Diaz-Aldagalan, Pilar
+43463030W     381,35   Lopez Estiguin, Sergio
+43529073Y    -455,98   Arandigoyen Garcia, Massimo Andrés
+43547124A    5421,58   Cozar Carretero, Vanessa
+43605854V      33,23   Andres Sierra, Isidoro Carlos
+43685563K    1427,61   Romero Ortega, Diego
+43801361V   -2197,35   Dominguez Ucher, Sara
+43972254K    5204,64   Caamaño Sanz, Gabriel
+44031599H    2632,68   Carrion Maestro, Javier
+44048636W    6139,78   Molina Melia, Ruben
+44071307N    2658,97   Marti París, Irene
+44130520X    3658,50   Vendrell Burdeus, Manuel
+44140183E    3682,98   Navarro Denia, Fernando
+44216436X    6221,07   Saporta Roger, Mayte
+44267965I    1216,50   Fortuño Perez, Lorenzo
+44290624R     937,62   Campos Caamaño, Ivan
+44355860U    -701,31   Calvo Carrion, Isidoro Ramón
+44438228A    6676,36   Escrig Bonillo, Vicent Julio
+44510092Q    -834,89   Amat Ribes, Salvador Benet
+44569469O      33,94   Sempere Aguado, Salvador
+44777357Z    -318,29   Galván Ortega, Sofia Rut
+44835353R    2014,14   Selma Llanes, Sinisa
+44978974X    2505,18   Ribes Berbegal, Jaime
+45050680J    6342,89   Arjona Díaz, Daniel
+45060834W   -1932,81   Alcon Alcarria, Andreu
+45103789M    -174,09   Badenas San, Raul
+45114042P    -799,68   Carrion Sabater, Mayte Vicente
+45243003Q    2743,82   Cazorla Fernández, Andrés
+45410985V   -1162,38   Galindo Sousa, Raúl
+45438443N    -340,79   Vicen Más, Diego
+45474097W    3807,90   Romero Silvestre, Ivan
+45642320W    6989,22   Orenga Castellote, Jorge Santiago
+45711899R   -1717,24   Vidal Novella, Pau
+45716756Q   -2840,55   Solsona Alba, Mariano
+45846135M     275,74   Covelo Vidagany, German
+45870801G   -2119,06   Arandigoyen Candel, Bautista
+45875330C    4431,68   Ripollés Codes, Salvador
+45903122K    5990,91   Pallares González, Andreu Salvador
+45980380N    3399,13   Fernandez Cubero, Jorge
+46105270P    4322,34   Sanchez Parra, Sofia Esteban
+46341633I    -813,19   Badenas Llanes, Ramón
+46379804K   -2707,97   Izquierdo Oset, Alexandre
+46394311P    4128,22   Hurtado Fernandez, Emilio
+46503246X    5172,33   Sanz Riera, Gabriel
+46527908G    1364,76   París Amela, Isidoro Vicente
+46665499U     562,77   Causanilles Ruiti, Luis
+46764221A    5635,14   Clemente LLopis, Andreu
+46819011C    4412,45   Monfort Burdeus, Jose
+46951121C    4445,18   Sales Laborda, Guadalupe
+47103168R   -2228,28   Fabregat Mancebo, Pau Guillermo
+47244235B    6558,00   Talens Montañes, Pilar Rut
+47312513D   -2431,34   Beltrán Beltrán, Monica
+47342817U    -753,92   Rojas Use, Francisco Victor
+47345131U    4300,38   Camañ Estrada, Ramón
+47368076E    6567,07   Sanchis Sales, Guadalupe
+47456088H    2585,81   Felip Martínez, Mayte
+47469050B   -1447,55   Armengot Silva, Fernando
+47523011D   -1560,16   Alcarria Codes, Julio Maria
+47659594K   -2205,24   Serrano Amores, Angel Alfonso
+47663958Q    3918,62   Amat Beltran, Carlos
+47669488B    1220,75   Ortiz Barbera, Alfonso Isidoro
+47758801C    -300,75   Egea Albalate, Manuel Vicent
+47782766X    5485,06   Solsona Puyuelo, Sinisa Guillermo
+47801829J   -1839,03   Garrido Sastre, Vicent
+47973559U    1605,09   Asuncion Garcia, Abel Alexandre
+48006610N    2121,23   Mancebo Lopez-Malla, Isabel
+48343495Z    6872,66   Martinez Buch, Mayte
+48454956O    -266,75   Molines Peris, Vanessa
+48484601G     887,05   Laguarda Tirado, Lorenzo Pau
+48505683G    3524,93   Amela Cozar, Alicia Jorge
+48506135A    5064,90   Masip Castillo, Manuel Alexandre
+48545273U    -719,35   Tirado Cozar, Ismael Juan
+48556035I   -2236,01   Cano Llanes, Rafael
+48560865W     800,05   Gomez Barrachina, Sergio
+48903081Q    4935,30   Diaz-Aldagalan Codes, Ismael Maria
+49317199P    1742,14   Fernandez Mota, Guillermo Esteban
+49383849P    2763,29   Nieto Sales, Bautista Alvar
+49492492L    -797,26   Martínez Tena, Andrés Ignacio
+49578219D    -225,43   Gaspar Saez, Vicente
+49593356M    6040,60   Lucas Pallares, Andreu
+49727630T    2510,93   Orenga Perez, Miguel Pau
+49811463N    4069,41   Monlleó Sanz, Irene
+50075896C    3862,40   Bou Diaz-Aldagalan, Massimo Maria
+50130468V    1140,46   Zamorano Serrano, Carlos Joaquín
+50220217N    1429,47   Arjona Orosia, German
+50282704X    5388,60   Cabedo Carbone, Victor Vicente
+50294481C    6428,94   Alcazar Mayor, Bautista
+50319386W    5760,63   Soria Agusti, Alberto
+50540702T    3163,01   Talens Ripolles, Andreu Alberto
+50660025H    1035,36   Castellote Orquín, Sergio
+50722474C   -1641,23   Tena Tena, Isidoro Isidoro
+50752139R    3792,57   Moyano Mendoza, Andrés Jose
+50828782M    4323,83   Botey Rojas, Joaquín
+51100262C    1270,16   Leche Ripollés, Andrés Eduardo
+51114483N    5835,56   Ortega Nebot, Cedric
+51219208M    1834,67   Cruz Fores, Sara
+51247257C    1654,92   Mrkonjic Marti, Alberto
+51303520W   -1341,88   Causanilles Llopico, Hector
+51330592C    1582,57   Beltrán Aranega, Luis
+51336489U   -2780,83   Aguado Roger, Jorge Javier
+51372293K    3452,79   Vicen Sabater, Miguel
+51537327C    4749,01   Pérez Soler, Julio
+51626131R     -59,01   Berbegal Jiménez, Andreu
+51777615R    5767,74   Torres Querol, Soledad Cedric
+51899784W   -2515,92   Sos Gomez, Isabel Alvar
+51936783U   -2810,23   Nebot Segarra, Guillermo Salvador
+52075792I    2821,92   Gala Izquierdo, Manuel
+52088462J    -907,02   Mendoza Causanilles, Begoña
+52092377D   -1117,71   Gomez Barbera, Ivan
+52170628K    3003,15   Solsona López, Ismael Germán
+52352745K    2573,93   Badia Armengot, Victor
+52419543M   -2812,45   Guinot Ribes, Sandra Gabriel
+52513110R    5165,21   Monfort Estiguin, Diego
+52659133D    6431,54   Cano Calvo, Maria
+52690128R    5577,05   Escreig Pallares, Diego Ricardo
+52712636B    -380,94   Navarro Ruiz, Adrian
+52807039T     711,72   Rossello San, Oscar Ismael
+53233856R    5421,78   Nager Claramunt, Vicent
+53282768P    -540,12   Lucas Laguarda, Emilio Rafael
+53609910R    1550,98   Alcon Más, Ramón
+53626392I   -2779,45   Ripollés Tirado, Antonio Sandra
+53670714Y    -170,08   López Escreig, Maximo
+53739187M    5413,46   Falco Marín, Juan Andrés
+53827286R    3716,31   Denia Badia, Alexandre
+53883091A    6676,75   Peris Rojas, Germán Andreu
+53938339O    6500,46   Cabrera Llanes, Antonio
+54181607H    6373,70   Martínez Sidro, Abel
+54262363N    4632,47   Cervera Beltran, Victoria
+54319704U    3416,59   Alcarria Buch, Benet Manuel
+54642080C      16,19   Sos Sales, Patricia
+54789953F    4373,89   Carretero Zafont, Santiago Jesus
+54835248H    1440,47   Casanova Vilar, Joaquín Jaime
+55324643P    6576,60   Broch Escreig, Daniel
+55378488M     808,89   Escuder Martí, Mariano
+55521230E    3984,23   Bori Bastard, Fernando Vicent
+55606017I    5304,19   Parra Garrido, Guillermo
+55606857B    -626,19   Gala Gómez, Germán
+55631028G     884,04   Gaspar Pla, Victor
+55772942V   -2887,98   Vicen Orosia, Amparo Andrés
+55995728Z    5068,71   Vidal Villamon, Eduardo
+56042865O    6085,24   Marti Borras, Mario Jose
+56095743M   -2866,66   Riera Morales, Vicente
+56121531S    1757,04   Silvestre Sorlí, Sara
+56134178L   -1505,15   Vilar Tena, Daniel Jesus
+56179334I   -1371,63   Navalon Sousa, José Oscar
+56211610J     -66,61   Pallares Calero, Rut
+56311675W   -1940,29   Bonillo Peral, Adrian Ubaldo
+56318296C    2735,89   Blasco Orenga, Angel Monica
+56348508I   -2430,52   Segarra Meseguer, Salvador Manuel
+56446773K    6089,41   Masquefa Gonzalez, Sergio
+56853835Y   -2292,71   Meseguer Bisbal, Adrian
+56880842B    1801,89   Cuenca Sempere, Alfonso
+56915161F   -2247,65   Ribes Garcia, Severino
+56944992I    4818,11   Molina Asuncion, Irene
+56952738I    2791,43   Peña Belles, Sara Pedro
+56975437T    5758,46   Chorda Gargallo, Manuel Pau
+56997174G    5362,17   Jiménez Monlleó, Severino
+57160564C    6651,13   Sempere Zamorano, Francisco
+57269903G    1841,51   Nebot Sousa, Irene
+57296332I    6260,44   Recatalá Belmonte, Luis
+57541382O   -1645,91   París Denia, Andreu Daniel
+57551039E    6707,46   Serisuelo Romero, Rebeca
+57626771U   -2535,48   Galindo Martínez, Raúl Sara
+57672418N    4518,70   Aranega Buch, Gabriel
+57788166Y    5083,09   Bastard Cubero, Sebastián
+57867219O    2389,83   Badenas Palacios, Alicia
+57912223U   -2773,22   Navarro Lopez, Soledad
+57918826Z    6552,74   Sierra Izquierdo, Germán
+57958698K    2419,91   Saporta García, Begoña Benet
+58201936R    1720,63   Ballester Ojeda, Raul
+58271665M   -1502,18   Causanilles Miquel, Andrés
+58276166D    2610,83   Ripollés Talens, Carlos
+58353835D   -1588,83   Espert Diago, Massimo
+58360829Z    3439,92   Cabedo Montoro, Pilar Sofia
+58363347A    -798,66   Molines Sorlí, Daniel
+58421551N    2816,29   Castillo Burdeus, Lorenzo
+58435814X   -2950,08   Escriva Nebot, Vanessa
+58504290Q    1746,95   Buch Oltra, José
+58575457R   -2182,54   Cabrera Alcazar, Irene Victoria
+58977111N     781,04   Molines Vidagany, Diego Jaime
+59027974K    5726,02   Garrido Lopez, Cristina
+59055290L    1323,05   Bozic Carbone, Massimo Francisco
+59089556V   -2664,41   Talens Perez, Germán
+59118973K    5641,74   Puyuelo Montañés, Julio
+59136726M    2557,37   Porcar Masquefa, Cristina
+59180687Z   -2766,60   Melia Campos, Carlos
+59243624U    1060,55   Nebot Viciano, Esteban
+59376504M      18,32   Escriva Orquín, Rut Vicent
+59387036Y    6012,72   Ballester Montañes, Andrés Abel
+59394041P   -2414,32   Bou Prades, Ruben Maximo
+59454461U     219,25   Cabrera Fortuño, Rafael
+59525894E   -2467,30   Melia Soria, Irene
+59579130F    6367,26   Borras Ribés, Pau
+59826872Y    5252,95   Borras Arjona, Sergio
+59834979T    1289,24   Esteve Valls, Severino Julio
+59916965K    3466,94   Rubert Díaz, Maria
+59945186H    5187,79   Alcarria Monlleó, Ivan
+60110790E    6914,96   Use Meseguer, Juan
+60203609P     738,10   Gil Saporta, Pedro Vanessa
+60328442S    4259,88   Escuder Bonillo, Massimo
+60668821A     314,80   Zamorano Hurtado, Ramón
+60806230K    4817,45   Miquel Agusti, Maximo
+60904180L    -803,65   Escobedo Perez, Jesús
+60971377T    -500,51   Nava Lopez, Julio Emilio
+61013795K    4807,65   Sorlí Piquer, Jaime
+61060343B    6191,28   Izquierdo Andres, Mario
+61094514U    -318,86   Olalla Tena, Oscar Esteban
+61101840I     347,84   Estiguin Pastor, Cedric
+61115919U    5101,98   Soler Leiva, Daniel
+61243941K     172,09   Melia Soria, Javier
+61371229N   -2818,16   Lopez Más, Santiago
+61424005I    2787,50   Ucher Bori, Sebastián
+61691163I   -2798,59   Valls Sorlí, Ricardo
+61768855Y   -1584,84   Cervera Leiva, Benet
+61831409Z    5292,42   Monferrer Armengot, Jesús
+61902316B    2593,05   Olalla Nager, Maximo Pau
+62037273E   -1777,74   Vendrell Vidal, Lorenzo Lorenzo
+62216575O    3379,51   Narvaez Fernández, Ramón
+62278201Q   -2856,34   Miquel Barbera, Jaime
+62300465M    6728,04   Sos Garcia, Maximo Sofia
+62402997O    4128,34   Amela Montañes, Ricardo
+62407571B    6835,52   Bastard Cozar, Isabel
+62519803I    4144,86   Agusti Torres, Armando
+62568012P    6440,42   Saez Cuenca, Agustin
+62682743P    5504,13   Ruiti Fernandez, Pau Isabel
+62719517M    3608,97   Espert Rubio, Adrian
+62794117J    1696,48   Rajadell Izquierdo, Luis Fernando
+62900161D     422,13   Sanchez Broch, Victor
+62942852X   -2072,08   Vendrell Leiva, Ruben
+63061979S    5667,17   Aguado Badia, Severino Rebeca
+63079792U    3530,88   Guinot Soria, Sandra
+63108948Y    4130,90   Puyuelo Orenga, Soledad Ignacio
+63162098Q    2961,82   Vidagany Oltra, Mariano
+63244542Z   -2912,61   Mancebo Monferrer, Jorge
+63439173V   -2426,49   Orosia Talens, Pau
+63662498J    4356,88   Muñoz Marín, Miguel David
+63843636X    2969,22   Masquefa Carbone, Francisco
+63978713L    2063,26   Use Viciano, Guillermo
+64102623V     182,32   Claramunt Cervera, Amparo Rafael
+64135562D     -75,61   Sorribes Iñiguez, Alberto
+64231984M    3133,11   Sanjuan Talens, Patricia
+64276854X    4100,72   Romero Buch, Alejandro
+64386908M    6512,26   Serisuelo Ortiz, Raúl Hector
+64429532O     862,55   Broch Laborda, Vicent
+64574131B      -4,63   Chorda Aranega, Pau
+64619449B   -1745,62   Saporta Leiva, Salvador Oscar
+64659719I    4234,33   Montañés Recatalá, Andreu
+64731955H   -1258,89   Belenguer Tirado, Andreu Amparo
+64989483I   -1059,62   Sanahuja Izquierdo, Mar Jesús
+65026080P    2458,04   Masquefa Marín, Ramón
+65076255P    -568,20   Lucas Ballester, Francisco
+65273897P   -1012,12   Calero Estiguin, Daniel
+65350017A     866,68   Roger Claramunt, Hector
+65663419S    6383,32   Ramos Fernández, Begoña
+65807355I    2067,56   Sales Mayor, Mayte Emilio
+65827627I    4422,40   Climent Laborda, Luis
+65875109A    6437,66   Estrada Denia, Germán
+66033806G    3648,78   Melia Nava, Abel
+66069453X    2992,57   Parra Zafont, Alvar
+66130055R    1444,13   Barreda Verdu, Benet
+66218674M    4195,99   Abargues Barrio, Vicent Maximo
+66261841P    3028,69   Molina Cacho, Javier
+66363505D    5094,82   Gómez Soria, Alexandre Daniel
+66378836V   -1026,31   Silvestre Meseguer, Miguel Gabriel
+66462280Q    3204,36   Tirado Añibarro, Julio
+66497284S     126,79   López Abargues, Sara
+66504201D    6858,06   Tena Roger, Isidoro
+66530562O   -2709,70   Monsonís Tirado, Pedro Vanessa
+66695440W    2972,00   Monsonís Porcar, Raul
+66711754D    2414,62   Izquierdo Dominguez, Lorenzo
+66785914Q    5754,50   Pastor Guinot, Jesus
+66806826G    6612,00   Gaspar Bori, Alexandre Sofia
+66863011Q    3833,74   Use Sempere, Severino
+67430179C    5081,85   Covelo Egea, Emilio
+67447816Z    2241,70   Mendoza Calero, Ramón
+67457832X    2022,31   Barrachina Masquefa, Raúl Alfonso
+67555871M    6969,79   Navarro Saporta, José
+67584842G    2388,28   Masquefa Cubero, Soledad
+67613079B    1289,19   Llanes Oltra, Angel
+67742051X    5420,26   Borras Serisuelo, Jaime
+67774233Y    2770,87   Llopico Abargues, Pau Amparo
+67809902N    3688,37   Espert Fores, Carlos
+68007576Y    5485,79   Alcazar Monsonís, Agustin
+68026472Q    3172,21   Ucher Causanilles, Sara
+68035269J    2942,16   Cozar Ferrer, Victoria
+68066109C   -1406,13   Martin Carrion, Pilar Benet
+68067471K    4822,04   Ortega Claramunt, Bautista Angel
+68094334X    1624,63   Alvarez Buch, Isabel
+68098526I     520,41   Falco Badia, Sebastián Adrian
+68198867E   -1594,62   Martin Archiles, Daniel
+68301112J    4696,47   Cabrera Meseguer, Sergio Antonio
+68316393S    2055,86   Ripolles Lopez, Sandra
+68391803O    6372,64   Orquín Fernandez, Carlos Andreu
+68405223W    2322,37   Iñiguez Camañ, Eduardo Jorge
+68424689X    2858,37   Mrkonjic Badia, Ignacio
+68469701M    1969,12   Felip Bisbal, Sebastián
+68567168S    6235,95   Codes Morales, Pedro
+68610734S    2115,55   San Silvestre, Vicente
+68687923X    1750,18   Rojas Silvestre, Guillermo
+68739334Z    5696,49   Anton Viciano, Abel
+68853980A   -1222,50   Selma Pérez, Santiago Andreu
+68882059X   -1811,98   Gómez Cabedo, Alexandre
+69065309T   -1405,50   Molines Torres, Janina
+69158003U    1617,57   Codes Arjona, Pau
+69176128B    2155,02   Laborda Martinez, Pilar
+69211721C   -1438,47   Beltran Cazorla, Victoria
+69287921Z    -268,07   Vendrell Bonillo, Ramón Rebeca
+69319427L    2914,26   Esteve Melia, Janina
+69563262L    4633,95   Melia Sales, Mayte
+69572057Y    5372,81   Monlleó Jiménez, Monica
+69682950C    6666,59   Martí Olalla, Armando Luis
+69777202F    6593,44   Lucas Ruiti, Miguel
+69980445Z   -1232,35   Cruz San, Armando
+70009895F   -2252,68   Querol Cano, Guillermo
+70134740W   -2933,07   Castellote Villamon, Miguel
+70259973J    6692,92   Martinez Gimeno, Maximo
+70396685W    3568,43   Vendrell Selma, Sergio
+70661921N    5854,42   Alcazar Peña, Isidoro Mayte
+70761079P    6470,86   Martinez Gomez, Victor
+70865752U    3880,34   Belles Masip, Sergio
+71068243M    -868,77   Sos Ucher, Olga Germán
+71146528S    -333,80   Denia Climent, Irene
+71276673T   -2199,09   Maestro García, Ruben Luis
+71296462H    1616,78   Bou Egea, Rebeca
+71386010F    -617,77   Vilar Castillo, Gabriel
+71437751C   -2333,61   Ruiz Sos, Maximo
+71511271B   -2318,85   Alba Carrion, Juan Jesus
+71541024W    5118,37   Cuevas Llopico, Vicente
+71876028P   -2165,91   Rossello Leiva, Pilar
+71883487H    6384,11   Orosia Esteve, Monica
+71939436L    4465,86   Alcarria Ripolles, Fernando
+72020591C    5413,18   Recatalá Use, Sofia
+72134839P    -120,59   Galindo Sempere, Lorenzo
+72201773O    2239,55   Talens Solsona, Massimo
+72489692G    6791,12   Sainz Berbegal, Antonio
+72537940C    4797,21   Escrig Beltran, Monica Ricardo
+72557627L     573,57   Amat Mayor, Monica Ismael
+72681958M   -1627,72   Ribes Vicen, Guillermo
+72790420Z    -569,21   Alcazar Hurtado, Isabel
+72791275M    5453,47   Oltra Ojeda, Monica
+72823030V    4909,18   Mrkonjic Sorlí, Andreu
+72828717N    6842,85   Sempere Gómez, Andrés
+72876055R    -756,21   Causanilles Montañes, Alejandro
+72961078T    6848,97   Sousa Bou, Jose
+73101599J   -1149,27   Altes Mayor, Gabriel
+73179417J    3358,56   Escrig Cortés, Jesus
+73551391X    6141,97   Laguarda Ballester, Francisco
+73586163V    3442,13   Masquefa Valls, Fernando
+73651591Y    2568,66   Bou Fernández, Alicia Mar
+73814426N    1848,13   Galindo Guinot, Sebastián
+73965081U    1979,56   Solsona Aguado, Victoria
+73982169N   -1972,20   Egea Morales, Vicente
+73983850W   -2793,03   Clemente Alvarez, Pilar Alfonso
+74079070A    1341,56   Bori Carretero, Mayte
+74481910J     941,30   Galindo Escreig, Francisco
+74488563D    4326,53   Gaspar Amat, Oscar Rut
+74622604H    3131,49   Zafont Orosia, Alvar
+74656822B    5780,82   Marti Viciano, Lorenzo
+74669271Y    4176,29   Bernad Egea, Carlos
+74922350R    -744,46   Martinez Masip, Abel David
+74993007U    5796,09   González Serisuelo, Julio Sofia
+74994072K    -405,14   Calduch Muñoz, Daniel
+75208639S    -188,10   Puyuelo Laguens, Vicente Hector
+75222976U   -1270,34   Codes Chorda, Soledad
+75244619H    6348,43   Carretero Bastard, Angel
+75365741E    1710,50   Verdu Arjona, Alvar
+75608214D    6265,45   Sorribes Muñoz, Pilar Pau
+75689352F     158,18   Alvarez Bonillo, Julio Rebeca
+75743199O    -468,65   Camañ Abargues, Guadalupe
+75873961H    1587,80   Cazorla Cruz, Alejandro
+76099315K   -2422,30   Montañes Carbone, Sara Armando
+76108378J    1546,03   Escriva Cazorla, Carlos Jorge
+76122560B    2175,48   Parra Ruiti, Guadalupe
+76146207N    2603,30   Garrido Soria, Sofia
+76194261Y    6808,49   Abargues Peña, Mar
+76217394F    6214,76   Dominguez Andres, Raúl
+76272366X    1979,51   Diago Verdu, Manuel Santiago
+76774980E    4038,01   Monlleó San, Mar
+77124258P    6288,42   Sidro Amat, Rut
+77148077M    6946,25   Recatalá Cuevas, Mario
+77354613J    5859,91   Gil Sanchis, Fernando Francisco
+77411382J     959,88   Cervera Navarro, Ismael Germán
+77412089H    2381,58   Ribes Palacios, Javier
+77655408B     424,24   Talens Narvaez, Mario
+77887355V     642,49   Serisuelo Nebot, Isidoro
+77894008D   -2672,15   Use Iñiguez, Victor
+77931823U    1400,89   Morales Parra, Salvador
+77943448W   -2492,14   Bori Jiménez, Daniel Fernando
+77959095L    5480,35   Ferreres Zafont, Ricardo
+78002624O    6116,59   Riera Sousa, Sergio
+78055665I    3889,98   París Pla, Mayte
+78294133L    3967,92   Fortuño Izquierdo, Rafael
+78401294F    6728,32   Miquel Orosia, Ismael
+78473259K    4363,40   Peris Hurtado, Mayte
+78668469S   -2408,99   Ferrer Pla, Agustin
+78860665L    5676,53   Belmonte Cortés, Monica
+79119563V    1483,93   Bisbal Maestro, Massimo
+79129698W    6167,91   Calvo Buch, Fernando Agustin
+79200962N    6674,76   Escobedo Pallares, Cedric
+79441800A    4291,70   Sorribes Rubert, Jose
+79790703G    -831,02   Botey Montañés, Fernando
+79815514W   -2390,55   Clemente Vicen, Diego
+79898267M    4284,65   Pérez Diago, Adrian
+80119702R    -299,03   Cazorla Garrido, Ricardo
+80213124C    4546,61   Melia Belles, Pedro Jesus
+80248336G     326,39   Peral Use, Mario
+80255528T    1079,16   Anton Pla, Lorenzo Daniel
+80279955C    1746,63   San Añibarro, Agustin Ivan
+80312122A    4591,39   Sendra Ortiz, Agustin
+80704316G   -1374,02   Ramos Dominguez, Maria
+80790063J    -553,00   Carrion Badia, Agustin
+81051323R     953,06   Viana Rubio, Lorenzo
+81143237A    2611,78   Prades Novella, Miguel
+81173831I   -2112,93   Borras Pérez, Massimo Julio
+81317934A    3551,92   Bastard Navarro, Adrian Angel
+81324345B    2246,29   Sanchez Ruiz, Maximo
+81364247E    1441,92   Vidal Sanjuan, Begoña
+81463990Y    6919,49   Moreno Laguens, Alicia Massimo
+81490072W    1866,49   Alvarez Barbera, David
+81632165Y    5015,74   Silva Viciano, Agustin
+81757115P    6740,52   París Belenguer, Jesús
+81760840L   -2127,62   Alvarez Felip, Esteban German
+81837886I    4211,60   Porcar Ferreres, Raúl
+81841010W    6925,83   Alcarria Denia, Ivan Ivan
+81915334N    2800,05   Calvo Altes, Victoria
+82151045H     129,89   Abargues Ribés, Santiago
+82251171R    6324,03   Masip Escreig, Sofia
+82455744C    6591,60   Ribés Arias, Diego Armando
+82505895Z    5853,36   Gaspar Martin, Pau
+82877569W    2030,91   Porcar Sendra, Oscar Olga
+83036001E    5403,82   Sin Saporta, Bautista
+83118162A    1423,20   Castillo Sanchez, Javier
+83196479M    2055,44   Garrido Huertas, Begoña Agustin
+83257534K      -9,74   Vilar Caamaño, Carlos
+83266057D    1441,16   Carrion Mancebo, Amparo
+83292626P   -2769,45   Talens Codes, Adrian Mayte
+83308848B   -1826,92   Serisuelo Moreno, Luis
+83335358L   -2338,35   Aranega Denia, Ismael José
+83498901V    2003,21   Armengot Sanchis, Andreu
+83822762V   -2796,01   Segarra Anton, Javier
+83890154L    3194,92   Leiva Calduch, Gabriel
+83921639L    6577,90   Arandigoyen Estrada, Sinisa
+83928668Y    6174,62   Sainz Sanjuan, Sandra
+84082252F    6929,20   Amat Nager, Adrian
+84409928K     578,48   Pla Sos, Janina
+84447756B    2710,45   Gil Mrkonjic, Begoña
+84516493O   -1283,60   Roger Sanlorenzo, Andrés
+84570084C    5699,44   Bori Sos, Maximo
+84623725O    2321,35   Sendra Navalon, Alejandro Alicia
+84704054G   -1539,82   Belmonte Suay, Guillermo
+84776723F    5560,85   Nieto Serisuelo, German
+84879525U    -614,32   Suay Fernández, Pau
+84937534Z    4082,53   Botey Martin-Lorente, Pau
+84987778I    -172,14   Izquierdo Gaspar, Andreu
+85017644U    3078,57   Gimeno Serisuelo, Sinisa
+85041149D    2335,05   Arias Marti, Pedro
+85051345J   -1944,70   Villagrasa Oset, Jorge Ismael
+85076498A   -2951,87   Alcazar Chorda, Andrés
+85308870E    4824,40   Vendrell Molines, Sandra
+85337940P      85,33   Mota Castillo, Abel Mariano
+85349385W    6357,16   Monsonis Llopico, Agustin Mayte
+85359399B    5409,59   Lucas Gozalbo, Sara Ramón
+85469203Q    6194,36   Zamorano Badia, Mariano Adrian
+85480492C    4792,79   Badenas Hurtado, Victor Jesús
+85651337E    -249,94   López Ballester, Sebastián
+85663857N    2647,38   Zafont Barrio, Sandra
+85712205Z    3856,57   Carbone Broch, Raúl
+85712883X    5494,46   Rossello Ballester, Germán
+85717405W    6063,43   París Sendra, Victor Vicent
+85761050F    -238,51   Borras Bonillo, Ignacio
+85864431J    5342,23   Ucher Sidro, Abel Javier
+85902508S    2246,84   Rajadell Esteve, Mayte
+85981613A   -2954,99   Verdu Badia, Vanessa Eduardo
+86028095L    2763,10   Cervera Aguado, David Massimo
+86051161K    6769,17   Nieto Pérez, Soledad
+86202271O    1594,00   Mendoza Montañes, Pablo Pedro
+86302066T   -2717,16   Sales Sanz, Ismael Sinisa
+86522319Z    -170,51   Peral González, Severino Maximo
+86536312L    6795,71   Villagrasa Gaspar, Gabriel
+86555034M    1095,85   Miquel Covelo, Oscar
+86613586Q   -2014,74   Torres Barbera, Jesus Francisco
+86676541W    5352,57   Fernández Muñoz, Ivan
+86778591I     714,56   Alvarez Rubio, Benet
+86800673H     -27,53   Navarro Ripollés, Carlos Jesus
+86869527F    4755,45   LLopis Querol, Rut Ramón
+87076537N    5546,74   Izquierdo Egea, Armando
+87333505V   -2581,27   Iñiguez Cubero, Isidoro
+87344642Z    1887,86   Cabrera Climent, Esteban
+87438110I    3041,65   Zafont Escrig, Hector
+87526857A     374,83   Belmonte Miquel, Ismael Ivan
+87627538E    4932,80   Nieto Estiguin, Cedric Rafael
+87717737U   -2509,27   Cazorla Villagrasa, Mayte Pau
+87781841P     -33,90   Castellote Ribés, Ramón
+87794988P    5634,94   Gaspar Sanahuja, Ricardo
+87903100M   -1411,48   Berbegal Leche, Alejandro
+87917151G   -2822,09   Vidagany Aguado, Manuel
+88033222S    6385,46   Suay Torres, Jaime
+88034819O     784,22   Hurtado Ferreres, Maximo
+88045776K    3964,74   Ortiz Amores, Mar
+88104557Q   -2679,05   LLopis Alcarria, Alicia
+88149460P   -1266,15   Aranega Calduch, Severino Cristina
+88288854W   -2872,77   Gimeno Calduch, Mariano Emilio
+88457188E    6744,90   Llopico Díaz, Emilio
+88480931V    1407,95   Aranega Martinez, Raul
+88584762Z    5227,68   Novella Alba, Javier
+88632077O    2644,49   Barbera Cuenca, Amparo
+88850263C    2957,57   Sin Sanchis, Vicent
+88925902E    4814,47   Gozalbo Felip, Angel
+88928812F     455,63   Jiménez Marti, Antonio
+89109332E     -43,96   Roig Mayor, Ismael
+89266354Z    6411,43   Piquer Amela, Antonio
+89334147U    2790,91   López Torres, Severino
+89341209J   -2109,44   Aguado Garcia, Guillermo
+89439826C   -2345,40   Sorribes Sastre, Armando
+89553799S    3633,54   Masquefa Verdu, Benet
+89801137Y    3126,87   Galindo Ferrer, Rafael
+89941172Z    -558,79   Escreig Viana, Victor
+89964530N    -601,25   Candel Fernández, Ruben Joaquín
+90123163B    5606,13   Pastor Laborda, Alicia
+90156204K    5781,83   Aranega Morales, Janina
+90331500Z   -2418,63   Sorlí Querol, Victoria Sinisa
+90410207Q    5250,98   Suay Rubio, German
+90482776S   -1100,03   Altes Aranega, Javier
+90529909E   -1352,28   Molines Vendrell, Sinisa
+90616445R   -1062,92   Serisuelo Sanz, Bautista
+90632021N     566,97   Clemente Broch, Alicia Ignacio
+90678163X   -1744,61   Nager Leiva, German José
+90723994Q    4721,36   Arandigoyen Laguens, Esteban Adrian
+90803798V    4387,14   Miquel Valls, Luis Agustin
+91035756B    5436,38   Galván Bastard, Miguel Daniel
+91121094E    6700,61   Viana Morales, Mayte José
+91142060E    -189,99   López Zafont, Antonio
+91149392W   -2284,40   Ballester Sempere, Sergio Emilio
+91151960Y    3571,25   París Martínez, Adrian Sofia
+91166655Z    5414,68   Falco Bozic, Raúl
+91181326X    -812,59   Casanova Esteve, Vanessa
+91249135J    5981,44   Fabregat Covelo, Sara
+91250467P   -1993,03   Carbone Orquín, Carlos
+91478379G     -92,98   González Sorribes, Eduardo
+91845356P    1744,20   Pastor Gala, Pablo Lorenzo
+92069805H    1018,69   Rubio Alvarez, David
+92106991F    2824,37   Navarro Blasco, Alexandre Eduardo
+92142103D    -162,16   Alcarria Novella, Soledad
+92244669Y    1338,58   Ripollés Navalon, Mayte
+92276332I   -1345,99   Sempere Rojas, Mayte Isabel
+92288163S    4533,35   Rubio Serrano, Adrian
+92295023B    4474,38   Bisbal Dominguez, Vicente
+92328790K    6901,81   Oset Botey, David
+92336357C    5848,14   Tena Carrion, Bautista
+92401049Q    2460,49   Más Cano, Ricardo
+92402195U   -2604,15   González Abargues, Jesus
+92583825E    6249,95   Arias Vidal, Diego Raúl
+92700002V    2945,07   Marti Navarro, Ricardo
+92775198G   -1159,25   Estiguin García, Abel
+92893337L    6202,63   Novella Pastor, Massimo
+93085184R   -2062,49   Anton Sastre, Alexandre Ismael
+93096576Z     -86,49   Marín Fabregat, Sara
+93168303E    6449,15   Estiguin Parra, Ramón Massimo
+93223832L    -110,98   Beltran Escuder, Mayte
+93228826W     353,33   Climent Parra, Vanessa
+93347850B     100,29   Ojeda Parra, Rut Jorge
+93520568V    6469,67   Diaz-Aldagalan Gil, Benet
+93561019M    3229,95   Cortés Moreno, Joaquín
+93712619K     388,72   Mancebo Escobedo, Ivan
+93779968X    2780,23   Martí Calduch, Ivan
+93796322R    1007,10   Cabrera Borras, Diego
+94078067Q    1988,20   Badia Candel, Andreu Ruben
+94161992K    6869,07   Aguado Guinot, Diego
+94240619C   -1601,65   Egea Rubert, Victor
+94398165A   -2658,18   Arandigoyen Navarro, Isidoro
+94619931P    5588,22   Querol Borras, Sofia
+94633097A    3250,12   Gozalbo Badia, David Jorge
+94664198F   -1756,56   Castellote García, Ramón Pedro
+94728715M     615,73   Palacios Abargues, Pau
+94771439L    4540,12   Peral Lopez, Diego
+95051478G    2956,93   Ortega Escreig, Isabel
+95051493I     770,89   Viana Carbone, Massimo
+95085952R   -2335,55   Riera Hurtado, Juan
+95106085V    3225,14   Martinez Nager, Ubaldo
+95300601E   -1953,95   Cabedo Tena, Raul
+95379785O    1939,47   París Rajadell, Jaime Alfonso
+95539318G    4084,03   Orquín Sanahuja, Jesus Pablo
+95692227Y    1009,13   Mota Valls, Guadalupe Sebastián
+95790161J   -2157,40   Beltrán López, Massimo
+95830626X    3221,77   Beltrán Castillo, Lorenzo Pau
+95915852T    1864,95   Viciano Arandigoyen, Pablo
+95927486O    6574,74   Novella Barrio, Vanessa
+95985759M    6740,49   Ribés Cuenca, Ruben
+96101592P    3915,43   Porcar Fores, Ismael Victoria
+96166978N   -2700,23   Sanahuja Añibarro, Janina Mayte
+96287822V    5016,28   Cuevas Sousa, Bautista
+96380678A   -1686,13   Gonzalez Gil, Alfonso Alberto
+96408019I    1422,98   Ucher Saez, Sandra
+96411612L    2577,14   Saez Bozic, Santiago
+96492736H    1152,77   Beltrán Gala, Vicente
+96504106U    3674,07   Ortega Maestro, Janina
+96514319R     533,09   Cervera Meseguer, Hector
+96594026R    5615,80   Sierra Roig, Vanessa
+96636714S    2843,50   Badenas Arandigoyen, Vicent Alvar
+96687558P    2010,45   Ruiz Mancebo, Alberto
+96740770U    4660,19   Más Buch, Patricia
+96746706J    6034,49   Sanchis Gaspar, Alvar
+96823872U   -1080,92   Peral Sanz, Vicente
+96831209Y    6032,76   Ruiz Martí, Ruben Sandra
+96858009D   -2470,15   Garrido Arias, Fernando
+96876893Q    6072,04   Sanlorenzo Muñoz, Isidoro
+96892311H    3296,70   Ripolles Estiguin, Carlos
+96934316O    5406,42   Silva Nager, Raúl
+97060470W     816,21   Sanchis Egea, Ignacio
+97067284Z    2753,10   Bou Aguado, Joaquín
+97199414E    1766,22   Molines Villagrasa, Germán
+97205574R   -1024,98   Vendrell Miquel, Esteban
+97228473Z   -2300,67   Alvarez Estiguin, Jesus Carlos
+97304606C    4664,96   Rojas Ripollés, Cristina
+97334746Y    -425,79   Arias Fores, Irene
+97360259V   -1889,07   Alcon Iñiguez, Vicent
+97595929N    5428,59   Barbera Falco, Ismael
+97600710T    2509,80   Ribes Suay, Pablo
+97698213F   -2100,42   Sanz Escobedo, Bautista Raul
+97726831T   -2071,76   Belenguer Alcazar, Esteban
+97823157M    -896,78   Bernad Garrido, Ubaldo
+97883766N   -1602,56   Galván Barreda, Angel David
+97893795F    -802,96   Codes Altes, Guillermo Jaime
+98042700X    1821,48   Sousa Bisbal, Cedric
+98087370X    -701,66   Buch Navalon, Adrian
+98102864B    4201,89   Climent Garcia, Javier
+98461839B   -2881,99   Jiménez Rajadell, Abel
+98680470S      -9,67   Masquefa Barreda, Soledad
+98762220M    1015,81   Leche Peral, Monica
+99071140U    3912,33   Galván Ojeda, Massimo
+99137340M   -1145,62   Piquer García, Rafael
+99269561I    2491,36   Sastre Nava, Victor
+99387411J     -23,22   Navarro Falco, Ignacio Salvador
+99483325F   -1410,39   Alcazar Pérez, Carlos
+99555954A    6219,41   Bonillo Calvo, Pau
+99595195K    3582,63   Beltran Use, Ubaldo Ramón
+99666555C   -2514,19   Zafont Verdu, Guadalupe
+99830478O     945,00   Gil Laguens, Olga Patricia
+99870839M   -2369,16   Estrada Clemente, Gabriel
+99912693J    -601,98   Roger Barreda, Diego

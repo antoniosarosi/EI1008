@@ -1,0 +1,6 @@
+40 José_Antonio
+100 Marta
+50 Ana
+60 José_Antonio
+60 Alberto
+50 Marta

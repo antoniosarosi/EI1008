@@ -1,0 +1,4 @@
+CDEF_Logroño 0 Valencia_Féminas_CF 0
+Levante_UD_SAD 0 Valencia_Féminas_CF 0
+CDEF_Logroño 2 Levante_UD_SAD 4
+Valencia_Féminas_CF 2 CDEF_Logroño 1
